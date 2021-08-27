@@ -4,3 +4,5 @@
            https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 4 링크 : https://developer.mozilla.org/ko/docs/Web/API/EventTarget/addEventListener
+
+전체 답안 : https://codesandbox.io/s/day-three-solution-3n53e
