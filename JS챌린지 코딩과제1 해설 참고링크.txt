@@ -1,0 +1,6 @@
+1 링크 : https://developer.mozilla.org/ko/docs/Web/API/Document/querySelector
+
+2 링크 : https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Basics
+           https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+4 링크 : https://developer.mozilla.org/ko/docs/Web/API/EventTarget/addEventListener
