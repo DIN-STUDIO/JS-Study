@@ -31,7 +31,8 @@ function onMouseLeave() {
   title[0].style.color = colors[1]; // 파란색
 }
 
-function onRightClk() {
+function onRightClk(event) {
+  event.preventDefault();
   title[0].innerHTML = "Mouse is right clicked";
   title[0].style.color = colors[2];
 }
